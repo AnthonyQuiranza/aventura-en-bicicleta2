@@ -26,7 +26,7 @@ Este proyecto crea una historia interactiva donde el usuario, Jhos, puede elegir
 
 1. **Clona el repositorio:**
     ```bash
-    git clone https://github.com/tu-usuario/una-aventura-especial.git
+    git clone https://github.com/anthonyquiranza/una-aventura-especial2.git
     ```
 
 2. **Navega al directorio del proyecto:**
