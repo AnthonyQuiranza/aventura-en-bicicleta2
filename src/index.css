@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('https://static.vecteezy.com/system/resources/previews/008/856/902/non_2x/asphalt-road-in-mountain-valley-landscape-illustration-nature-highway-through-meadow-and-trees-cartoon-background-vector.jpg');
+  background-size: cover;
+  background-position: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
